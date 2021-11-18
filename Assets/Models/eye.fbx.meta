@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: 3823ad4dabcc11d4d82312e828385342
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 5915893707563843437
+    second: LEFT_EYE_BALL|LEFT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: -8956843367515901472
+    second: LEFT_EYE_BALL|LEFT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: -3636529793046031741
+    second: LEFT_EYE_BALL|LEFT_EYE_LID|CINEMA_4D_Main|Layer0
+  - first:
+      74: 7064411141633011908
+    second: LEFT_EYE_BALL|Null|CINEMA_4D_Main|Layer0
+  - first:
+      74: -6109008200849510768
+    second: LEFT_EYE_BALL|RIGHT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: 3514680102756400660
+    second: LEFT_EYE_BALL|RIGHT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: -1118735310080743686
+    second: LEFT_EYE_BALL|RIGHT_EYE_LID|CINEMA_4D_Main|Layer0
+  - first:
+      74: 1046110231095422622
+    second: LEFT_EYE_2|LEFT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: -723173742548957542
+    second: LEFT_EYE_2|LEFT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: 6891040297907212942
+    second: LEFT_EYE_2|LEFT_EYE_LID|CINEMA_4D_Main|Layer0
+  - first:
+      74: 8852262986239108675
+    second: LEFT_EYE_2|Null|CINEMA_4D_Main|Layer0
+  - first:
+      74: -4189874940135005439
+    second: LEFT_EYE_2|RIGHT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: -4123147868679737228
+    second: LEFT_EYE_2|RIGHT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: -7172672582520945822
+    second: LEFT_EYE_2|RIGHT_EYE_LID|CINEMA_4D_Main|Layer0
+  - first:
+      74: -542635127081032513
+    second: RIGHT_EYE_BALL|LEFT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: 4213718668679822257
+    second: RIGHT_EYE_BALL|LEFT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: -6492018186171408227
+    second: RIGHT_EYE_BALL|LEFT_EYE_LID|CINEMA_4D_Main|Layer0
+  - first:
+      74: -5438961058323666204
+    second: RIGHT_EYE_BALL|Null|CINEMA_4D_Main|Layer0
+  - first:
+      74: -8568448701628232686
+    second: RIGHT_EYE_BALL|RIGHT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: -414774724802947011
+    second: RIGHT_EYE_BALL|RIGHT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: 5198472843669078498
+    second: RIGHT_EYE_BALL|RIGHT_EYE_LID|CINEMA_4D_Main|Layer0
+  - first:
+      74: 711195633845533777
+    second: RIGHT_EYE_2|LEFT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: -8213313527328432888
+    second: RIGHT_EYE_2|LEFT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: -1866900686469456686
+    second: RIGHT_EYE_2|LEFT_EYE_LID|CINEMA_4D_Main|Layer0
+  - first:
+      74: 3643435903133038712
+    second: RIGHT_EYE_2|Null|CINEMA_4D_Main|Layer0
+  - first:
+      74: -2722747859462644331
+    second: RIGHT_EYE_2|RIGHT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: -6221903295428614221
+    second: RIGHT_EYE_2|RIGHT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: 3591243878184540702
+    second: RIGHT_EYE_2|RIGHT_EYE_LID|CINEMA_4D_Main|Layer0
+  - first:
+      74: 5391028651451802210
+    second: Null|LEFT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: 5400764523557996131
+    second: Null|LEFT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: -5468389049394433834
+    second: Null|LEFT_EYE_LID|CINEMA_4D_Main|Layer0
+  - first:
+      74: -638858015094424303
+    second: Null|Null|CINEMA_4D_Main|Layer0
+  - first:
+      74: 300066340971017947
+    second: Null|RIGHT_EYE_2|CINEMA_4D_Main|Layer0
+  - first:
+      74: 8630953865679030074
+    second: Null|RIGHT_EYE_BALL|CINEMA_4D_Main|Layer0
+  - first:
+      74: 2848756570269574343
+    second: Null|RIGHT_EYE_LID|CINEMA_4D_Main|Layer0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 7405e86c98a0ad14393275a8d0c4c0b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.003
+    second: {fileID: 2100000, guid: 3ff2958485d3cd641b193a95b632c09e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: ba17930c538399c4eb19a1b726993f2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2
+    second: {fileID: 2100000, guid: 7d062028f6230cf4d9bf8d48708e7bf2, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
